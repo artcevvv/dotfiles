@@ -1,6 +1,6 @@
 # artcevvv's dotfiles
 
---
+some custom code and compilation of my favorite colors for the most comfortable use for me personally
 
 ## Screenshots
 
