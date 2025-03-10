@@ -1,0 +1,17 @@
+# artcevvv's dotfiles
+
+--
+
+## Screenshots
+
+![screenshot1](./screenshots/screenshot1.jpg)
+![screenshot1](./screenshots/screenshot2.jpg)
+![screenshot1](./screenshots/screenshot3.jpg)
+
+## Prerequisites
+
+- [hyprland](https://hyprland.org/) (obviously)
+- [rofi](https://github.com/davatorium/rofi)
+- [wofi](https://github.com/SimplyCEO/wofi)
+- [waybar](https://github.com/Alexays/Waybar)
+- [bluetui](https://github.com/pythops/bluetui) (for searching bluetooth devices)
